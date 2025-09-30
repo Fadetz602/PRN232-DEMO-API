@@ -287,5 +287,69 @@ namespace DemoApi.Controllers
 
             return Ok(result);
         }
+
+        // 🟢 CREATE: Thêm sản phẩm mới
+        [HttpPost]
+        public IActionResult CreateProduct([FromBody] Product product)
+        {
+            if (product == null)
+                return BadRequest();
+
+            _con.Products.Add(product);
+            _con.SaveChanges();
+            return CreatedAtAction(nameof(GetProductById), new { id = product.ProductId }, product);
+        }
+
+        // 🔵 READ: Lấy tất cả sản phẩm
+        [HttpGet]
+        public IActionResult GetAllProducts()
+        {
+            var products = _con.Products.ToList();
+            return Ok(products);
+        }
+
+        // 🔵 READ: Lấy sản phẩm theo ID
+        [HttpGet("{id}")]
+        public IActionResult GetProductById(int id)
+        {
+            var product = _con.Products.Find(id);
+            if (product == null)
+                return NotFound();
+
+            return Ok(product);
+        }
+
+        // 🟡 UPDATE: Cập nhật sản phẩm
+        [HttpPut("{id}")]
+        public IActionResult UpdateProduct(int id, [FromBody] Product updatedProduct)
+        {
+            if (id != updatedProduct.ProductId)
+                return BadRequest("ID không khớp");
+
+            var product = _con.Products.Find(id);
+            if (product == null)
+                return NotFound();
+
+            product.ProductName = updatedProduct.ProductName;
+            product.UnitPrice = updatedProduct.UnitPrice;
+            product.CategoryId = updatedProduct.CategoryId;
+
+            _con.SaveChanges();
+            return NoContent(); // HTTP 204
+        }
+
+        // 🔴 DELETE: Xóa sản phẩm
+        [HttpDelete("{id}")]
+        public IActionResult DeleteProduct(int id)
+        {
+            var product = _con.Products.Find(id);
+            if (product == null)
+                return NotFound();
+
+            _con.Products.Remove(product);
+            _con.SaveChanges();
+
+            return NoContent();
+        }
     }
 }
