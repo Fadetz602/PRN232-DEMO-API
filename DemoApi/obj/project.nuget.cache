@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q0FA3pihK7E=",
+  "dgSpecHash": "VaWEbwKSq84=",
   "success": true,
-  "projectFilePath": "E:\\Course Project\\PRN232 project\\DemoApi\\DemoApi\\DemoApi.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\DemoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

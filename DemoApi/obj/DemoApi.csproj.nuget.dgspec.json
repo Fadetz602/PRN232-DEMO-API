@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Course Project\\PRN232 project\\DemoApi\\DemoApi\\DemoApi.csproj": {}
+    "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\DemoApi.csproj": {}
   },
   "projects": {
-    "E:\\Course Project\\PRN232 project\\DemoApi\\DemoApi\\DemoApi.csproj": {
+    "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\DemoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Course Project\\PRN232 project\\DemoApi\\DemoApi\\DemoApi.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\DemoApi.csproj",
         "projectName": "DemoApi",
-        "projectPath": "E:\\Course Project\\PRN232 project\\DemoApi\\DemoApi\\DemoApi.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\DemoApi.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Course Project\\PRN232 project\\DemoApi\\DemoApi\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -98,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

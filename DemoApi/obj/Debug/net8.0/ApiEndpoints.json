@@ -229,6 +229,66 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "DemoApi.Controllers.NorthWind2Controller",
+    "Method": "AveragePriceByCategory",
+    "RelativePath": "api/NorthWind2/AveragePriceByCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoApi.Controllers.NorthWind2Controller",
+    "Method": "CountCustomersByCountry",
+    "RelativePath": "api/NorthWind2/CountCustomersByCountry",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoApi.Controllers.NorthWind2Controller",
+    "Method": "ProductCountByCategory",
+    "RelativePath": "api/NorthWind2/ProductCountByCategory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoApi.Controllers.NorthWind2Controller",
+    "Method": "ProductTotalRevenue",
+    "RelativePath": "api/NorthWind2/ProductTotalRevenue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoApi.Controllers.NorthWind2Controller",
+    "Method": "Top5MaxPriceProduct",
+    "RelativePath": "api/NorthWind2/Top5MaxPriceProduct",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DemoApi.Controllers.NorthWind2Controller",
+    "Method": "TotalOrdersByEmployee",
+    "RelativePath": "api/NorthWind2/TotalOrdersByEmployee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DemoApi.Controllers.ProductController",
     "Method": "Get",
     "RelativePath": "api/Product",

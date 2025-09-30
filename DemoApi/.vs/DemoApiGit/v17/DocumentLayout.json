@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|c:\\users\\admin\\documents\\prn232\\gitdemoapi\\prn232-demo-api\\demoapi\\controllers\\northwind2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|solutionrelative:controllers\\northwind2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|c:\\users\\admin\\documents\\prn232\\gitdemoapi\\prn232-demo-api\\demoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|c:\\users\\admin\\documents\\prn232\\gitdemoapi\\prn232-demo-api\\demoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|c:\\users\\admin\\documents\\prn232\\gitdemoapi\\prn232-demo-api\\demoapi\\controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|solutionrelative:controllers\\autocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|c:\\users\\admin\\documents\\prn232\\gitdemoapi\\prn232-demo-api\\demoapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|c:\\users\\admin\\documents\\prn232\\gitdemoapi\\prn232-demo-api\\demoapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|c:\\users\\admin\\documents\\prn232\\gitdemoapi\\prn232-demo-api\\demoapi\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54989C5D-083E-4B83-9EF8-868BEEAD562D}|DemoApi.csproj|solutionrelative:controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T10:29:08.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:10:10.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Controllers\\AutoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutoController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Controllers\\AutoController.cs",
+              "RelativeToolTip": "Controllers\\AutoController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwEMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:09:45.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T03:09:44.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NorthWind2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Controllers\\NorthWind2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\NorthWind2Controller.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Controllers\\NorthWind2Controller.cs",
+              "RelativeToolTip": "Controllers\\NorthWind2Controller.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwH4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:51:16.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NorthWindController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Controllers\\NorthWindController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NorthWindController.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Controllers\\NorthWindController.cs",
+              "RelativeToolTip": "Controllers\\NorthWindController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:51:13.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PRN232\\GitDemoApi\\PRN232-DEMO-API\\DemoApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:51:10.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

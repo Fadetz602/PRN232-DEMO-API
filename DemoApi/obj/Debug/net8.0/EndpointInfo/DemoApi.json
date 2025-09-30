@@ -1882,6 +1882,78 @@
         }
       }
     },
+    "/api/NorthWind2/CountCustomersByCountry": {
+      "get": {
+        "tags": [
+          "NorthWind2"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/NorthWind2/TotalOrdersByEmployee": {
+      "get": {
+        "tags": [
+          "NorthWind2"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/NorthWind2/AveragePriceByCategory": {
+      "get": {
+        "tags": [
+          "NorthWind2"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/NorthWind2/ProductCountByCategory": {
+      "get": {
+        "tags": [
+          "NorthWind2"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/NorthWind2/ProductTotalRevenue": {
+      "get": {
+        "tags": [
+          "NorthWind2"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/NorthWind2/Top5MaxPriceProduct": {
+      "get": {
+        "tags": [
+          "NorthWind2"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Product": {
       "get": {
         "tags": [
